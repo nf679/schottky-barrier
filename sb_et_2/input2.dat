@@ -1,0 +1,5 @@
+triangle             ::   shape
+0.02 500.0 1500.0    ::   height   a   b   [c   d]
+0.015                ::   e_start
+0.02                 ::   e_finish
+100                  ::   e_it
