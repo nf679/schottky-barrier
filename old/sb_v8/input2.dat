@@ -1,0 +1,4 @@
+triangle            ::   shape 
+0.02 500.0 1500.0   ::   height   a   b   [c   d]
+0.015               ::   energy
+0.001                ::   bias

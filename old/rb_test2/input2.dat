@@ -1,0 +1,6 @@
+parabolic_triangle            ::   shape 
+0.02 500.0 1500.0   ::   height   a   b   [c   d]
+0.015               ::   energy
+0.005                ::   bias_i
+0.01                 :: bias_f
+100                  :: bias_n

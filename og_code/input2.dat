@@ -1,0 +1,3 @@
+rectangle    ::   shape 
+0.2 500.0 1500.0 ::   height   a   b   [c   d]
+0.301 :: energy
