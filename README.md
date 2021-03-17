@@ -1,9 +1,2 @@
 !-------------------------------------------------------------------------------------------------------------------------!
-!                         Modelling The Tunneling Probabilities of electrons in a Schotkky Barrier                        !
-!                         ------------------------------------------------------------------------                        !
-!
-!    INPUT:
-!
-!    OUTPUT:
-!
-!
+                         Modelling The Tunneling Probabilities of electrons in a Schotkky Barrier                        
